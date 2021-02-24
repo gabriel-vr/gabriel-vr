@@ -1,4 +1,4 @@
-<img width="50px" height="50px src = "https://github.com/gabriel-vr.png" />
+<img width="50px" height="50px" src = "https://github.com/gabriel-vr.png" />
 
 # Gabriel Vicente Rodrigues
 
