@@ -17,5 +17,7 @@ I am looking for learn even more and more to get a good knowledge for when i get
 
 ## How to contact me
 Email: gvicente53@gmail.com
+
 Telegram: @ga_vr
+
 LinkedIn: https://www.linkedin.com/in/gabriel-vr
