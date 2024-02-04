@@ -10,9 +10,10 @@ Hi everyone, my name is Gabriel Vicente Rodrigues. I was born in March 8th, 2002
 
 I am a Computer Sciences student at USP-São Carlos. I entered college in 2020 and i will get my degree in 2024.
 
-I like to learn a lot of technologies. My favorities today are React and NodeJS, so as you can see, i like a lot web development.
+My favorite area to study is Artificial Inteligence, more specifically Machine Learning. 
+I am currently in a NLP research project focused on developing solutions based on Deep Learning to the legal area.
 
-I am looking for learn even more and more to get a good knowledge for when i get a job at some great company or start-up.
+My experience includes working with Python, Tensorflow, Pytorch, Java, C++, Typescript and Web Dev frameworks like React, Django and Vue.
 
 ## How to contact me
 Email: gvicente53@gmail.com
